@@ -1,0 +1,13 @@
+.historical-container {
+  height: 100%;
+}
+
+.historical-table-container {
+  width: 100%;
+  height: 80%;
+}
+
+.date-picker {
+  margin-bottom: 10px;
+  width: 200px;
+}

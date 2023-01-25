@@ -1,0 +1,11 @@
+.chart-container {
+  height: 100%;
+}
+
+.date-picker {
+  margin-bottom: 10px;
+  width: 200px;
+}
+.chart {
+  margin-bottom: -40px;
+}

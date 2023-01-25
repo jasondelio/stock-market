@@ -1,0 +1,31 @@
+.quote-header {
+  margin: 20px;
+  margin-bottom: 0px;
+}
+.quote-header h2 {
+  font-size: 28px;
+}
+.quote-header hr {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.quote-header p {
+  font-weight: bold;
+  font-size: 16px;
+}
+.price-down {
+  color: red;
+}
+.price-up {
+  color: green;
+}
+.price-same {
+  color: grey;
+}
+
+.loader-container {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}

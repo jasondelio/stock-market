@@ -1,0 +1,14 @@
+.overview-container {
+  height: 100%;
+}
+
+.overview-table {
+  width: 100%;
+}
+.overview-table th {
+  text-align: right;
+}
+.overview-table th,
+td {
+  padding-bottom: 10px;
+}
